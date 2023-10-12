@@ -1,0 +1,9 @@
+<resources>
+    <string name="edit_text_hint">Tapez ici</string>
+    <string name="urgent_switch_text">Urgent</string>
+    <string name="add_button_text">Ajouter</string>
+    <string name="delete_confirmation_title">Voulez-vous supprimer ceci?</string>
+    <string name="delete_confirmation_message">La ligne sélectionnée est : %1$d</string>
+    <string name="task_added_message">Tâche ajoutée</string>
+    <string name="task_deleted_message">Tâche supprimée</string>
+</resources>
